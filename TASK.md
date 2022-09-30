@@ -44,5 +44,5 @@ Output: 0
 - Please use Python to complete this task.
 - We're most interested to see problem solving and your approach.
 - Keep it simple, keep it DRY, but don't over complicate or over engineer. 
-- Please comment the code.
+- Please comment the code and write tests where appropriate. 
 - Include any assumptions you have made.
